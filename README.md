@@ -4,4 +4,4 @@ Read the url through d3 and got map that plots for all the past 7 days earthquak
 
 "static folder" contains "logic.js" file which has code and "html file" for visualization.
 
-Website for the output map :
+Website for the output map : " https://jaylaxami.github.io/leaflet_challenge/"
